@@ -1,0 +1,33 @@
+.app {
+    background-color: black;
+    color: blue;
+}
+
+.footer {
+    text-align: center;
+    background-color: red;
+}
+
+.main {
+    position: relative;
+    top: 30px;
+    max-width: 980px;
+    text-align: center;
+    margin: auto;
+    background-color: lightgrey;
+}
+
+.nav-headings {
+    background-color: white;
+    padding: 0;
+    /*padding-right: 15px
+     padding-left: 15px; */
+}
+
+.nav-item {
+    padding: 0;
+}
+
+.events {
+    padding: 15px;
+}

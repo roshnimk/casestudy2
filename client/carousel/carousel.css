@@ -1,0 +1,33 @@
+.carsl{
+  height: 150px;
+  background-color: lightgreen;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      /*width: 70%;*/
+      margin: auto;
+  }
+.images{
+  width: 140px;
+  height: 140px;
+}
+.carousel-caption{
+  color: red;
+
+  position: absolute;
+  bottom: -35px;
+}
+.carousel-indicators{
+  bottom: -35px;
+
+  position: absolute;
+}
+
+
+/*.carousel-inner .active.left  { left: -33%;             }
+.carousel-inner .active.right { left: 33%;              }
+.carousel-inner .next         { left: 33%               }
+.carousel-inner .prev         { left: -33%              }
+.carousel-control.left        { background-image: none; }
+.carousel-control.right       { background-image: none; }
+.carousel-inner .item         { background: white;      }*/
